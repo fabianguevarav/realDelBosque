@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+ body{
+
+ }
+
+ .navbar-brand{
+   font-family: 'Pacifico', cursive;
+   text-align: left;
+ }
+
+.fotoCondominio{
+  margin-top: 40px;
+  margin-bottom: 50px;
+  margin-right: 80px;
+
+}
+.startImg   {
+    margin-top: 40px;
+    margin-left: 240px;
+
+}
+ /* estilos documentacion*/
+.docCards{
+  margin-top: 40px;
+
+}
+
+.eachCard{
+  display: flex;
+  justify-content: space-between;
+
+}
+.card{
+  box-shadow: 2px 2px gray;
+}
+.card-img-top{
+  width: 250px;
+  height: 150px;
+  text-align: center;
+}
+
+.card:hover{
+  box-shadow: 0px 0px #fff;
+
+}
+
+.btn-info{
+  background-color: white;
+  margin: white;
+  color: black;
+
+}
+
+.ano2016 .ano2017 {
+
+}
+
+.eachBtn{
+  margin-bottom: 4px;
+  margin-top: 6px;
+  display: flex;
+  flex-direction: row;
+}
+
+.mainBtn{
+  margin: 4px;
+}
