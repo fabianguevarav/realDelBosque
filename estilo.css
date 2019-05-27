@@ -141,3 +141,12 @@ li{
   color: gray;
   font-weight: lighter;
 }
+#submit-btn{
+  margin-top: 16px;
+}
+.carousel-size{
+  display: flex;
+  justify-content: center;
+  width: 1000px;
+  margin-top: 60px;
+}
